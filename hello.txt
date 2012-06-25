@@ -1,1 +1,2 @@
 Hello,Welcome to Git beginer's Training.
+Thank you. Its time to leave.
