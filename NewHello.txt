@@ -1,0 +1,3 @@
+HEllo Its a new file created for Git 2012.
+Enjoy .
+Updated second time ,New file added
